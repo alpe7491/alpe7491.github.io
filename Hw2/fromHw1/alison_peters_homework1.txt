@@ -1,0 +1,6 @@
+alpe7491.github.io
+https://github.com/alpe7491/alpe7491.github.io
+
+I added a jumbotron to enhance my name on the home page. I also played around a bit with
+the font colors and card borders on the projects page.
+
